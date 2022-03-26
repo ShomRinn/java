@@ -1,2 +1,2 @@
 # java projects
-soon(i hope)
+Small comprehension tasks
